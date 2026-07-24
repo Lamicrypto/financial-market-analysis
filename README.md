@@ -333,17 +333,15 @@ The analysis highlights the importance of evaluating investment strategies using
 
 ---
 
-## Author
+## 👤 Author
 
-**Balogun Olamide Timothy**
+**Timothy Olamide Balogun**
 
-Data Analyst | AI & Machine Learning Enthusiast
+AI & Machine Learning | Data Analysis | Python | SQL
 
-Nigeria
+📧 **Email:** [olapyperfx24@gmail.com](mailto:olapyperfx24@gmail.com)
 
-**Email:** [olapyperfx24@gmail.com](mailto:olapyperfx24@gmail.com)
+🔗 **GitHub:** [Lamicrypto](https://github.com/Lamicrypto)
 
-**LinkedIn:** https://www.linkedin.com/in/timothy-balogun-0a27192a2
-
-**GitHub:** https://github.com/Lamicrypto
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/timothy-balogun-0a27192a2)
 
